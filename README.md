@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+早睡早起，按时吃饭，白天喝2升温水，不能吃冷的进肚子里。
+我对每个客户说的都是早睡早起，一日三餐，白天喝2升温水，不能吃冷的东西进肚子里。可惜，很多人还问我还有没有效果更好的药。
+每个人的身体器官都会通过早睡早起的规律生活习惯恢复它自身机能的。
 
-You can use the [editor on GitHub](https://github.com/sbqwg/9050150/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+其实是他们自己早睡早起，一日三餐，白天喝2升温水，使的身体机能恢复的，并不是药来帮他，药只能缓解疼痛，让他晚上能睡的好一点点，白天生活能自理，不用别人帮忙。晚上睡觉不痛，睡眠质量好，身体机能恢复了，就不会痛到影响生活。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+传统中药材
+中国传统中医的地道药材，一般传统中药材讲究地道药材，是指在一特定自然条件、生态环境的地域内所产的药材，因生产较为集中，栽培技术、采收、 加工也都有一定的讲究，以致较同种药材在其他地区所产者品质佳、疗效好。
 
-### Markdown
+瑶山神药让你拥有健康的身体更简单。
+规律作息让你轻松地拥有健康的身体。
+长期的剧烈疼痛，这只是你的身体在提醒你，太阳升起就劳动，太阳落下就休息。要与大自然相处和谐的规律作息时间。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+通过晚饭后食用一粒风湿跌打通筋丸让你晚上进入深度睡眠的时间来提高你的人体免疫力，第二天疼痛不影响你的生活。早睡早起的生活习惯要坚持下去，你不用吃药也不会有疼痛了。
 
-```markdown
-Syntax highlighted code block
+服用药丸，应该遵守：
 
-# Header 1
-## Header 2
-### Header 3
+1、规律作息，按时吃饭，按时睡觉（晚上9点前洗澡，晚上10点前睡觉）。
+2、白天喝2000-3000毫升温白开水（淡淡的红茶水更好喝）。
+为专业的、便宜的、有效的中草药产品付费, 而不是花哨的广告。
 
-- Bulleted
-- List
+只是前面几天疼痛不能正常生活才一天2粒，能走路了，生活能自理了，就一天1粒，然后可以去地里干活了，就几天1粒，再到10天1粒。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbqwg/9050150/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+购买请加微信号：9050150
